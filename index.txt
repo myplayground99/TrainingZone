@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Training Zone</h1>
+
+<p>HOME PAGE</p>
+
+</body>
+</html>
